@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c305c3b.chunk.css",
-    "main.js": "/static/js/main.a7535fbe.chunk.js",
-    "main.js.map": "/static/js/main.a7535fbe.chunk.js.map",
+    "main.css": "/static/css/main.ee142485.chunk.css",
+    "main.js": "/static/js/main.60176e5f.chunk.js",
+    "main.js.map": "/static/js/main.60176e5f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.746b4734.js",
     "runtime-main.js.map": "/static/js/runtime-main.746b4734.js.map",
-    "static/js/2.0d01fc34.chunk.js": "/static/js/2.0d01fc34.chunk.js",
-    "static/js/2.0d01fc34.chunk.js.map": "/static/js/2.0d01fc34.chunk.js.map",
+    "static/js/2.c3830358.chunk.js": "/static/js/2.c3830358.chunk.js",
+    "static/js/2.c3830358.chunk.js.map": "/static/js/2.c3830358.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.90c1d2cc144a04a29bfe9fa61ef0c385.js": "/precache-manifest.90c1d2cc144a04a29bfe9fa61ef0c385.js",
+    "precache-manifest.a90e11de2edd47e9f2b70815515f3cee.js": "/precache-manifest.a90e11de2edd47e9f2b70815515f3cee.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4c305c3b.chunk.css.map": "/static/css/main.4c305c3b.chunk.css.map",
-    "static/js/2.0d01fc34.chunk.js.LICENSE.txt": "/static/js/2.0d01fc34.chunk.js.LICENSE.txt",
+    "static/css/main.ee142485.chunk.css.map": "/static/css/main.ee142485.chunk.css.map",
+    "static/js/2.c3830358.chunk.js.LICENSE.txt": "/static/js/2.c3830358.chunk.js.LICENSE.txt",
     "static/media/adnosco.jpg": "/static/media/adnosco.d3a9e2d1.jpg",
     "static/media/amcs.jpg": "/static/media/amcs.d07ed275.jpg",
-    "static/media/cheapconverter.jpg": "/static/media/cheapconverter.bef90a7e.jpg",
+    "static/media/doctolib.jpg": "/static/media/doctolib.39ebfa3e.jpg",
     "static/media/lesfurets.jpg": "/static/media/lesfurets.6a33adff.jpg",
     "static/media/parkendd.jpg": "/static/media/parkendd.646d3a2f.jpg",
     "static/media/profilePic.jpg": "/static/media/profilePic.cafcdb1f.jpg",
-    "static/media/resume.pdf": "/static/media/resume.a1eb410e.pdf",
     "static/media/verecipes.jpg": "/static/media/verecipes.0fb2d378.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.746b4734.js",
-    "static/js/2.0d01fc34.chunk.js",
-    "static/css/main.4c305c3b.chunk.css",
-    "static/js/main.a7535fbe.chunk.js"
+    "static/js/2.c3830358.chunk.js",
+    "static/css/main.ee142485.chunk.css",
+    "static/js/main.60176e5f.chunk.js"
   ]
 }
